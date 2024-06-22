@@ -5,7 +5,11 @@ class Animal{
     public:
     int a,b;
     void main(){
-        cout<<"Enter the value of A:"<<a<<endl;
-        cin>>a;
+        int arr[5] = {1,2,3,4,5};
+        for (int i = 0; i < arr[i] - 1; i++)
+        {
+            cout<<i<<"\n"<<endl;
+        }
+        
     }
 };
