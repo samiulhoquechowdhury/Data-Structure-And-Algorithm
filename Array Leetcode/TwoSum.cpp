@@ -5,13 +5,9 @@ Problem: Given an array of integers, return indices of the two numbers such that
 Input: nums = [2, 7, 11, 15], target = 9
 Output: [0, 1] (because nums[0] + nums[1] = 9)
 
-
-*/
-
-/*
-
 ++++++++++solution submitted on leetcode:+++++++++
 
+*/
 
 class Solution {
 public:
@@ -31,5 +27,3 @@ public:
     }
 };
 
-
-*/
