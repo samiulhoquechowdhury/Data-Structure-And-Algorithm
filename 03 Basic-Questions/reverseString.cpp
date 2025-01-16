@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int i, j, length;
-    char string[100]; // Removed unnecessary semicolon in #define MAX_SIZE
+    char string[100]; 
     char reverse[100];
 
     cout << "Enter a string: ";
